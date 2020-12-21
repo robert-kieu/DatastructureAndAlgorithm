@@ -11,7 +11,8 @@
 //	string name;
 //	string profit_tax;
 //	string address;
-//};//
+//};
+//
 //
 //vector<Company> readData(string filename){
 //	string s;
